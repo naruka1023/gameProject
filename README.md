@@ -23,3 +23,5 @@ numeric keypad number 0 - execute skill
 right ctrl - jump
 
 choose "gameProject" scene
+
+https://www.facebook.com/pan1023/videos/vb.543597694/10153749406462695/?type=3&theater
