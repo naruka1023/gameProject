@@ -21,3 +21,5 @@ numeric keypad number 9 - call skill 3
 numeric keypad plus sign - call skill 4
 numeric keypad number 0 - execute skill
 right ctrl - jump
+
+choose "gameProject" scene
