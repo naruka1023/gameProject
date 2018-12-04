@@ -24,4 +24,6 @@ right ctrl - jump <br>
 <br>
 choose "gameProject" scene <br>
  <br>
-https://www.facebook.com/pan1023/videos/vb.543597694/10153749406462695/?type=3&theater
+ 
+ This is a project that i did in college, just a two player games with horrible physics trying to either drop a rain of blocks on your opponent, or make your opponent drop out of the stage. <br>
+https://www.youtube.com/watch?v=ix3uHTdjQGA
